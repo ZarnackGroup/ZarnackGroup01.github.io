@@ -3,7 +3,7 @@
 
 Here we create a Zarnack webpage. At the moment it is still empty.
 
-## [Teaching](https://github.com/ZarnackGroup/ZarnackGroup.github.io/blob/main/teaching.md)
+## [Teaching](https://github.com/ZarnackGroup/Teaching/blob/gh-pages/index.md)
 
 
 ## Publications
