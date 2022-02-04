@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Computational RNA biology"
-permalink: https://zarnackgroup.github.io/
+permalink: https://zarnackgroup.github.io/Projects
 ---
 
 # Learning the Molecular Code of RNA Regulation
