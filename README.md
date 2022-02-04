@@ -3,11 +3,3 @@ RNA-binding proteins (RBPs) are critical players in the posttranscriptional cont
 
 Bioinformatics and machine learning open new routes to dissect the complexity of RBP function and posttranscriptional regulation in human physiology and disease. A main pillar of our work is the computational integration of multi-omics data to resolve the regulatory principles of RBP function in alternative splicing, translation and RNA localisation, with a particular interest in clinically relevant scenarios. To achieve this, we constantly expand our toolbox that can be applied to a wide range of questions in RNA biology. For details on projects, collaborators and funding, please refer to the following Projects.
 
-
-## [Teaching](https://github.com/ZarnackGroup/Teaching/blob/gh-pages/index.md)
-
-
-## Publications
--
--
-- 
