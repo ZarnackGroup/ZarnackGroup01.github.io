@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Computational RNA biology"
+title: "Projects"
 permalink: https://zarnackgroup.github.io/Projects
 ---
 
